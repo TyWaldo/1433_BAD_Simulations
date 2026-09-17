@@ -1,0 +1,164 @@
+
+The following have been reloaded with a version change:
+  1) gromacs/2026.2 => gromacs/2025.1
+
+                     :-) GROMACS - gmx trjconv, 2025.1 (-:
+
+Executable:   /apps/gromacs/2025.1/bin/gmx
+Data prefix:  /apps/gromacs/2025.1
+Working dir:  /home/ONID.OREGONSTATE.EDU/waldot/1433_BAD/publish_files/dimer
+Command line:
+  gmx trjconv -f rep1_full.xtc -o rep1_protein_1ns_timestep.xtc -s ../../monomer/longer_BAD_TIP3P/production.tpr -skip 10
+
+Will write xtc: Compressed trajectory (portable xdr format): xtc
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Group     0 (         System) has 217148 elements
+Group     1 (        Protein) has  4771 elements
+Group     2 (      Protein-H) has  2407 elements
+Group     3 (        C-alpha) has   300 elements
+Group     4 (       Backbone) has   900 elements
+Group     5 (      MainChain) has  1201 elements
+Group     6 (   MainChain+Cb) has  1487 elements
+Group     7 (    MainChain+H) has  1489 elements
+Group     8 (      SideChain) has  3282 elements
+Group     9 (    SideChain-H) has  1206 elements
+Group    10 (    Prot-Masses) has  4771 elements
+Group    11 (    non-Protein) has 212377 elements
+Group    12 (          Other) has 212377 elements
+Group    13 (            POT) has   211 elements
+Group    14 (            CLA) has   201 elements
+Group    15 (           TIP3) has 211965 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of rep1_full.xtc is 0.001 (nm)
+Using output precision of 0.001 (nm)
+Reading frame       1 time  100.000    ->  frame      0 time    0.000      Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000    ->  frame      1 time 1000.000      Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Reading frame    1100 time 110000.000   Reading frame    1200 time 120000.000   Reading frame    1300 time 130000.000   Reading frame    1400 time 140000.000   Reading frame    1500 time 150000.000   Reading frame    1600 time 160000.000   Reading frame    1700 time 170000.000   Reading frame    1800 time 180000.000   Reading frame    1900 time 190000.000   Reading frame    2000 time 200000.000   Reading frame    3000 time 300000.000   Reading frame    4000 time 400000.000   Reading frame    5000 time 500000.000   Reading frame    6000 time 600000.000   Reading frame    7000 time 700000.000   Reading frame    8000 time 800000.000   Reading frame    9000 time 900000.000   Reading frame   10000 time 1000000.000   Reading frame   11000 time 1100000.000   Reading frame   12000 time 1200000.000   Reading frame   13000 time 1300000.000   Reading frame   14000 time 1400000.000   Reading frame   15000 time 1500000.000   Reading frame   16000 time 1600000.000   Reading frame   17000 time 1700000.000   Reading frame   18000 time 1800000.000   Reading frame   19000 time 1900000.000   Reading frame   20000 time 2000000.000   Last frame      20000 time 2000000.000   
+ ->  frame   2000 time 2000000.000      
+Last written: frame   2000 time 2000000.000
+
+
+GROMACS reminds you: "The public have an insatiable curiosity to know everything, except what is worth knowing." (Oscar Wilde)
+
+Note that major changes are planned in future for trjconv, to improve usability and utility.
+Select group for output
+Selected 1: 'Protein'
+                     :-) GROMACS - gmx trjconv, 2025.1 (-:
+
+Executable:   /apps/gromacs/2025.1/bin/gmx
+Data prefix:  /apps/gromacs/2025.1
+Working dir:  /home/ONID.OREGONSTATE.EDU/waldot/1433_BAD/publish_files/dimer
+Command line:
+  gmx trjconv -f rep2_full.xtc -o rep2_protein_1ns_timestep.xtc -s ../../monomer/longer_BAD_TIP3P/production.tpr -skip 10
+
+Will write xtc: Compressed trajectory (portable xdr format): xtc
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Group     0 (         System) has 217148 elements
+Group     1 (        Protein) has  4771 elements
+Group     2 (      Protein-H) has  2407 elements
+Group     3 (        C-alpha) has   300 elements
+Group     4 (       Backbone) has   900 elements
+Group     5 (      MainChain) has  1201 elements
+Group     6 (   MainChain+Cb) has  1487 elements
+Group     7 (    MainChain+H) has  1489 elements
+Group     8 (      SideChain) has  3282 elements
+Group     9 (    SideChain-H) has  1206 elements
+Group    10 (    Prot-Masses) has  4771 elements
+Group    11 (    non-Protein) has 212377 elements
+Group    12 (          Other) has 212377 elements
+Group    13 (            POT) has   211 elements
+Group    14 (            CLA) has   201 elements
+Group    15 (           TIP3) has 211965 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of rep2_full.xtc is 0.001 (nm)
+Using output precision of 0.001 (nm)
+Reading frame       1 time  100.000    ->  frame      0 time    0.000      Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000    ->  frame      1 time 1000.000      Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Reading frame    1100 time 110000.000   Reading frame    1200 time 120000.000   Reading frame    1300 time 130000.000   Reading frame    1400 time 140000.000   Reading frame    1500 time 150000.000   Reading frame    1600 time 160000.000   Reading frame    1700 time 170000.000   Reading frame    1800 time 180000.000   Reading frame    1900 time 190000.000   Reading frame    2000 time 200000.000   Reading frame    3000 time 300000.000   Reading frame    4000 time 400000.000   Reading frame    5000 time 500000.000   Reading frame    6000 time 600000.000   Reading frame    7000 time 700000.000   Reading frame    8000 time 800000.000   Reading frame    9000 time 900000.000   Reading frame   10000 time 1000000.000   Reading frame   11000 time 1100000.000   Reading frame   12000 time 1200000.000   Reading frame   13000 time 1300000.000   Reading frame   14000 time 1400000.000   Reading frame   15000 time 1500000.000   Reading frame   16000 time 1600000.000   Reading frame   17000 time 1700000.000   Reading frame   18000 time 1800000.000   Reading frame   19000 time 1900000.000   Reading frame   20000 time 2000000.000   Last frame      20000 time 2000000.000   
+ ->  frame   2000 time 2000000.000      
+Last written: frame   2000 time 2000000.000
+
+
+GROMACS reminds you: "I'm Not Gonna Die Here !" (Sphere)
+
+Note that major changes are planned in future for trjconv, to improve usability and utility.
+Select group for output
+Selected 1: 'Protein'
+                     :-) GROMACS - gmx trjconv, 2025.1 (-:
+
+Executable:   /apps/gromacs/2025.1/bin/gmx
+Data prefix:  /apps/gromacs/2025.1
+Working dir:  /home/ONID.OREGONSTATE.EDU/waldot/1433_BAD/publish_files/dimer
+Command line:
+  gmx trjconv -f rep3_full.xtc -o rep3_protein_1ns_timestep.xtc -s ../../monomer/longer_BAD_TIP3P/production.tpr -skip 10
+
+Will write xtc: Compressed trajectory (portable xdr format): xtc
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Group     0 (         System) has 217148 elements
+Group     1 (        Protein) has  4771 elements
+Group     2 (      Protein-H) has  2407 elements
+Group     3 (        C-alpha) has   300 elements
+Group     4 (       Backbone) has   900 elements
+Group     5 (      MainChain) has  1201 elements
+Group     6 (   MainChain+Cb) has  1487 elements
+Group     7 (    MainChain+H) has  1489 elements
+Group     8 (      SideChain) has  3282 elements
+Group     9 (    SideChain-H) has  1206 elements
+Group    10 (    Prot-Masses) has  4771 elements
+Group    11 (    non-Protein) has 212377 elements
+Group    12 (          Other) has 212377 elements
+Group    13 (            POT) has   211 elements
+Group    14 (            CLA) has   201 elements
+Group    15 (           TIP3) has 211965 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of rep3_full.xtc is 0.001 (nm)
+Using output precision of 0.001 (nm)
+Reading frame       1 time  100.000    ->  frame      0 time    0.000      Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000    ->  frame      1 time 1000.000      Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Reading frame    1100 time 110000.000   Reading frame    1200 time 120000.000   Reading frame    1300 time 130000.000   Reading frame    1400 time 140000.000   Reading frame    1500 time 150000.000   Reading frame    1600 time 160000.000   Reading frame    1700 time 170000.000   Reading frame    1800 time 180000.000   Reading frame    1900 time 190000.000   Reading frame    2000 time 200000.000   Reading frame    3000 time 300000.000   Reading frame    4000 time 400000.000   Reading frame    5000 time 500000.000   Reading frame    6000 time 600000.000   Reading frame    7000 time 700000.000   Reading frame    8000 time 800000.000   Reading frame    9000 time 900000.000   Reading frame   10000 time 1000000.000   Reading frame   11000 time 1100000.000   Reading frame   12000 time 1200000.000   Reading frame   13000 time 1300000.000   Reading frame   14000 time 1400000.000   Reading frame   15000 time 1500000.000   Reading frame   16000 time 1600000.000   Reading frame   17000 time 1700000.000   Reading frame   18000 time 1800000.000   Reading frame   19000 time 1900000.000   Reading frame   20000 time 2000000.000   Last frame      20000 time 2000000.000   
+ ->  frame   2000 time 2000000.000      
+Last written: frame   2000 time 2000000.000
+
+
+GROMACS reminds you: "It's Not Your Fault" (Pulp Fiction)
+
+Note that major changes are planned in future for trjconv, to improve usability and utility.
+Select group for output
+Selected 1: 'Protein'
+                     :-) GROMACS - gmx trjconv, 2025.1 (-:
+
+Executable:   /apps/gromacs/2025.1/bin/gmx
+Data prefix:  /apps/gromacs/2025.1
+Working dir:  /home/ONID.OREGONSTATE.EDU/waldot/1433_BAD/publish_files/dimer
+Command line:
+  gmx trjconv -f rep4_full.xtc -o rep4_protein_1ns_timestep.xtc -s ../../monomer/longer_BAD_TIP3P/production.tpr -skip 10
+
+Will write xtc: Compressed trajectory (portable xdr format): xtc
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Reading file ../../monomer/longer_BAD_TIP3P/production.tpr, VERSION 2025.1 (single precision)
+Group     0 (         System) has 217148 elements
+Group     1 (        Protein) has  4771 elements
+Group     2 (      Protein-H) has  2407 elements
+Group     3 (        C-alpha) has   300 elements
+Group     4 (       Backbone) has   900 elements
+Group     5 (      MainChain) has  1201 elements
+Group     6 (   MainChain+Cb) has  1487 elements
+Group     7 (    MainChain+H) has  1489 elements
+Group     8 (      SideChain) has  3282 elements
+Group     9 (    SideChain-H) has  1206 elements
+Group    10 (    Prot-Masses) has  4771 elements
+Group    11 (    non-Protein) has 212377 elements
+Group    12 (          Other) has 212377 elements
+Group    13 (            POT) has   211 elements
+Group    14 (            CLA) has   201 elements
+Group    15 (           TIP3) has 211965 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of rep4_full.xtc is 0.001 (nm)
+Using output precision of 0.001 (nm)
+Reading frame       1 time  100.000    ->  frame      0 time    0.000      Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000    ->  frame      1 time 1000.000      Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Reading frame    1100 time 110000.000   Reading frame    1200 time 120000.000   Reading frame    1300 time 130000.000   Reading frame    1400 time 140000.000   Reading frame    1500 time 150000.000   Reading frame    1600 time 160000.000   Reading frame    1700 time 170000.000   Reading frame    1800 time 180000.000   Reading frame    1900 time 190000.000   Reading frame    2000 time 200000.000   Reading frame    3000 time 300000.000   Reading frame    4000 time 400000.000   Reading frame    5000 time 500000.000   Reading frame    6000 time 600000.000   Reading frame    7000 time 700000.000   Reading frame    8000 time 800000.000   Reading frame    9000 time 900000.000   Reading frame   10000 time 1000000.000   Reading frame   11000 time 1100000.000   Reading frame   12000 time 1200000.000   Reading frame   13000 time 1300000.000   Reading frame   14000 time 1400000.000   Reading frame   15000 time 1500000.000   Reading frame   16000 time 1600000.000   Reading frame   17000 time 1700000.000   Reading frame   18000 time 1800000.000   Reading frame   19000 time 1900000.000   Reading frame   20000 time 2000000.000   Last frame      20000 time 2000000.000   
+ ->  frame   2000 time 2000000.000      
+Last written: frame   2000 time 2000000.000
+
+
+GROMACS reminds you: "You fight, work, sweat, nearly kill yourself, sometimes you do kill yourself, trying to accomplish something - and you can't." (Joseph Conrad)
+
+Note that major changes are planned in future for trjconv, to improve usability and utility.
+Select group for output
+Selected 1: 'Protein'
